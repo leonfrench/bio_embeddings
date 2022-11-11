@@ -1043,7 +1043,7 @@ python-versions = ">=3.6"
 
 [package.dependencies]
 numpy = ">=1.17.0"
-scipy = ">=0.18.1"
+scipy = ">=0.18.0"
 smart-open = ">=1.8.1"
 
 [package.extras]
@@ -2962,7 +2962,7 @@ tests = ["matplotlib (>=3.1.2)", "scikit-image (>=0.14.5)", "pandas (>=1.0.5)", 
 
 [[package]]
 name = "scipy"
-version = "1.8.1"
+version = "1.8.0"
 description = "SciPy: Scientific Library for Python"
 category = "main"
 optional = false
